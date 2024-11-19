@@ -1,4 +1,4 @@
-Text-to-Math Problem Solver with Google Gemma 2 LLM Integration
+# Text-to-Math Problem Solver with Google Gemma 2 LLM Integration
 
 ## Table of Contents
 1. [Project Title](#project-title)
